@@ -4,3 +4,4 @@ def Power(n, p):
     return n * Power(n, p - 1)
 
 print(pow(2, 10))
+a = 2
